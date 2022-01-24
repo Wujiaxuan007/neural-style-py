@@ -21,7 +21,6 @@
 | feathers        | ![wpsoTY4i1](https://user-images.githubusercontent.com/41990342/150714124-9a954e17-8edb-45b4-ba75-4626978e5bcf.png) | ![wps23pkxS](https://user-images.githubusercontent.com/41990342/150714134-afc18f3e-c9b9-4803-b3d5-4ce51681a15f.png) | ![wpss6cxTy](https://user-images.githubusercontent.com/41990342/150714590-4c7878af-f911-4695-b223-b7fd3c56e8f3.png) |
 | mosaic          | ![wps1iCiDh](https://user-images.githubusercontent.com/41990342/150714192-45ed5efe-e86a-475b-acde-9bdfae3e78ff.png) | ![wpsZxssM1](https://user-images.githubusercontent.com/41990342/150714213-cd9741d5-70d4-4297-8d3c-7afc6255b4e1.png) | ![wps3LVX7H](https://user-images.githubusercontent.com/41990342/150714234-243fd148-c7f1-4328-968c-f7402f8eede8.png) |
 | wave            | ![wps8oEZBz](https://user-images.githubusercontent.com/41990342/150714250-af8b94bc-52d7-4e0e-9517-f4a9ef859750.png) | ![wps8VeGLo](https://user-images.githubusercontent.com/41990342/150714261-86971c07-ba14-4bbc-a209-08fa65c8ef67.png) | ![wpsNr1Ds1](https://user-images.githubusercontent.com/41990342/150714274-85e1da65-315a-464e-ac85-6c27ecfd4530.png) |
-
 | udnie           | ![wpsU0kAFM](https://user-images.githubusercontent.com/41990342/150714330-0d5b71d9-f18f-47b0-ae48-425c5f7aafb2.png)| ![wpsEOpky3](https://user-images.githubusercontent.com/41990342/150714704-df63b662-0b93-4ab4-800a-4357cea3df42.png)| ![wpsweWunZ](https://user-images.githubusercontent.com/41990342/150714347-287a0be1-65ea-459b-bd29-ba559cde1a5c.png)
 
 
@@ -54,8 +53,8 @@
 ![image](https://user-images.githubusercontent.com/41990342/150715221-f7b83424-2649-46cb-baeb-fc0308077a9f.png)
 
 #### 3.3 每多少次保存一次模型：
-
 可以稍微改大一点
+
 ![image](https://user-images.githubusercontent.com/41990342/150715247-103bc30a-13c8-48f3-8674-d0a67a0f5008.png)
 
 ### 4）填写neural-style_server\conf\candy.yml
